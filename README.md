@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1> Blood bank management system </h1> 
+<h1> Blood bank management system 🩸 </h1> 
 </head>
   <body>
     <h4>Overview of blood bank</h4>
